@@ -1,6 +1,6 @@
 # Adaptive-TTA
 
-An udpated verson of the Adaptive-TTA algorithm [1] can be found at https://github.com/pedrormconde/MV-ATTA
+An udpated verson of the Adaptive-TTA algorithm [1] can be found at https://github.com/pedrormconde/MV-ATTA.
 
 ## References
 
